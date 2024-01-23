@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me:
        1.Email: gdyes128@gmail.com
-       2.Discord:❡♗☈ꍏϜϜ€†€€†♄ #8301
-       3.LinkedIn:www.linkedin.com/in/meghna-das-7402ab220
+       2.LinkedIn: www.linkedin.com/in/meghna-das-7402ab220
        
 
 <!---
