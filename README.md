@@ -69,7 +69,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak Stats 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Girraffeteeth&theme=highcontrast&hide_border=true" />
