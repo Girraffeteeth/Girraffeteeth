@@ -49,31 +49,7 @@
 
 ---
 
-## 🏆 Achievements & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Girraffeteeth&theme=onedark&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Girraffeteeth&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girraffeteeth&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Girraffeteeth&theme=highcontrast&hide_border=true" />
-</p>
 
 
 
